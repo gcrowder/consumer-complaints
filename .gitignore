@@ -2,3 +2,6 @@
 .envrc
 .direnv
 __pycache__
+*.pyc
+PandasTour.ipynb
+.ipynb_checkpoints
